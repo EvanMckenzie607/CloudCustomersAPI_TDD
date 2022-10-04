@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{39FE1131-8D37-4A22-8C4C-CF0DA452DB53}|Default">
+  <MonoDevelop.Ide.ItemProperties.CloudCustomers.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloudCustomers.UnitTests/Systems/Controllers/TestUsersController.cs">
+    <Files>
+      <File FileName="CloudCustomers.API/Controllers/UsersController.cs" Line="10" Column="35" />
+      <File FileName="CloudCustomers.API/Services/UserService.cs" Line="12" Column="38" />
+      <File FileName="CloudCustomers.API/Program.cs" Line="35" Column="5" />
+      <File FileName="CloudCustomers.API/Models/User.cs" Line="9" Column="28" />
+      <File FileName="CloudCustomers.API/Models/Address.cs" Line="8" Column="41" />
+      <File FileName="CloudCustomers.UnitTests/Systems/Controllers/TestUsersController.cs" Line="24" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CloudCustomers" expanded="True">
+            <Node name="CloudCustomers.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="CloudCustomers.UnitTests" expanded="True" selected="True">
+              <Node name="Systems" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CloudCustomers" expanded="True">
+            <Node name="CloudCustomers.UnitTests" expanded="True">
+              <Node name="CloudCustomers.UnitTests.Systems.Controllers" expanded="True">
+                <Node name="TestUsersController" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
